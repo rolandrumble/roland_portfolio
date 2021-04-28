@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analyst portfolio on Roland Nwatarali</title>
+    <link>https://rolandrumble.github.io/roland_portfolio/</link>
+    <description>Recent content in Data Analyst portfolio on Roland Nwatarali</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Feb 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://rolandrumble.github.io/roland_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 4: GDP per Capita Forecast</title>
+      <link>https://rolandrumble.github.io/roland_portfolio/post/project-4/</link>
+      <pubDate>Fri, 12 Feb 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://rolandrumble.github.io/roland_portfolio/post/project-4/</guid>
+      <description>In the last decade, the Global economy has been negatively impacted by a series of events, most notably the global financial crisis (2008), the European debt crisis (2009), and the Brexit vote for the UK to leave the European Union (2016). In this era of political instability, investors and companies alike are curious to know whether this is a time of financial opportunity or risk. This analysis aims to assess the economic state of countries using a data science approach.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Bank Notes Authentication</title>
+      <link>https://rolandrumble.github.io/roland_portfolio/post/project-3/</link>
+      <pubDate>Wed, 11 Mar 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://rolandrumble.github.io/roland_portfolio/post/project-3/</guid>
+      <description>Data were extracted from images that were taken from genuine and forged banknote-like specimens. The objective is to classify whether bank note is real or fake Using different Machine learning classification algorithms. Optimized Decision Tree, Random Forest Classifer and XGBoost using GridsearchCV to reach the best model.    Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Lagos Rent Prediction</title>
+      <link>https://rolandrumble.github.io/roland_portfolio/post/project-2/</link>
+      <pubDate>Sun, 10 Feb 2019 11:00:59 -0400</pubDate>
+      
+      <guid>https://rolandrumble.github.io/roland_portfolio/post/project-2/</guid>
+      <description>Created a tool that estimates House rent prices within Lagos State, Nigeria. The Objective of this project, is basically to help current residents and individuals planning to relocate to the Center Of Excellence (Nickname for Lagos State), have a fair idea of current prices of rented apartment per area and make informed decisions based on their budget. Scrapped over 9000 properties from propertypro.ng (One of Nigeria&amp;rsquo;s Foremost Property sites) using python and selenium Engineered Featured from the text of each property description (Number of Bedrooms, Toilet and Bathrooms) to quantity the Price /value of the Apartment.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Customer Chun Prediction</title>
+      <link>https://rolandrumble.github.io/roland_portfolio/post/project-1/</link>
+      <pubDate>Wed, 09 May 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://rolandrumble.github.io/roland_portfolio/post/project-1/</guid>
+      <description>Curated data of customers from insurance firms across 3 different countries. Engineered features from contributing variables (Num. of Active members, Estimated Salary) to quantify their Feature importance to the probability of customers churning. Optimized Decision Tree, Random Forest Classifer and XGBoost using GridsearchCV to reach the best model. Deployed the Model Using PowerBI and Streamlit    Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://rolandrumble.github.io/roland_portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rolandrumble.github.io/roland_portfolio/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     LinkedIn: https://www.linkedin.com/in/roland-nwatarali-mnse-51a26965/   GitHub: https://github.com/rolandrumble    </description>
+    </item>
+    
+  </channel>
+</rss>
